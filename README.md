@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040248
+# Name:PRAVEENA D
+# Date:11.05.2025
 
 
 # AIM:
@@ -36,6 +36,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+![atm use case diagram](https://github.com/user-attachments/assets/7fd65112-66a2-473c-9013-578885cb461a)
 
 
 
@@ -56,6 +57,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+![atm class](https://github.com/user-attachments/assets/aae2cf43-6d3a-47b0-bd96-ad65be3bd917)
 
 
 
@@ -64,6 +66,7 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+![atm communication](https://github.com/user-attachments/assets/f0285281-86bb-48d0-96a3-2af4601cd462)
 
 
 
@@ -77,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+![atm package](https://github.com/user-attachments/assets/be1dd49e-9f2d-4f17-b08c-5b8f8d210cbf)
 
 
 
@@ -95,6 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![atmactivty](https://github.com/user-attachments/assets/28cdfb68-884d-45a2-bdc1-c3fe208d616c)
 
 
 
